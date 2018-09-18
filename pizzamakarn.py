@@ -21,3 +21,5 @@ while meny != 3:
         print("tack och hej")
     else:
         print("du hade inte gjort ett korrekt val, prova igen")
+
+#test för git
